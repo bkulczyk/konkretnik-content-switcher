@@ -57,9 +57,7 @@ Version: 0.3.3
     // Replacement texts that apply within specified selectors
     selectorReplacementTexts: {
       '<a href="https://konkretnik.com/">ChangeLang</a>':'||en||[[pl]]PL[[/pl]]||/en||||pl||[[en]]EN[[/en]]||/pl||',
-      '<a href="https://konkretnik.com/">About</a>':'||en||<a href="https://konkretnik.com/">About me</a>||/en||||pl||<a href="https://konkretnik.com/">O mnie</a>||/pl||',
-      '<a href="https://konkretnik.com/konkretnik-content-switcher/">Content Switcher</a>':'||en||<a href="https://konkretnik.com/konkretnik-content-switcher/">Content Switcher</a>||/en||||pl||<a href="https://konkretnik.com/konkretnik-content-switcher/">Podmieniacz treści</a>||/pl||',
-      'Get rid with IT overload!':'||en||Get rid with IT overload!||/en||||pl||Ogarnij strukturę IT!||/pl||'
+      '<a href="https://konkretnik.com/">About</a>':'||en||<a href="https://konkretnik.com/">About me</a>||/en||||pl||<a href="https://konkretnik.com/">O mnie</a>||/pl||'
     },
     // Custom replacements outside specified areas
     outsideSelectorReplacements: {
