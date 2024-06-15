@@ -186,3 +186,4 @@ Version: 0.3.3
     'old text': 'new text',
     'old code': 'new code'
   };
+</script>
